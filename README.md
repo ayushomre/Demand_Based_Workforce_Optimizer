@@ -132,14 +132,6 @@ python src/validate_project.py
 
 Regeneration rewrites the supplied CSVs and SQLite database with the same deterministic scenario.
 
-## Documentation
-
-- [Business requirements](docs/Business_Requirements.md)
-- [Data dictionary](docs/Data_Dictionary.md)
-- [KPI dictionary](docs/KPI_Dictionary.md)
-- [Power BI build guide](powerbi/Power_BI_Build_Guide.md)
-- [Interview guide](docs/Interview_Guide.md)
-- [Portfolio project report](docs/Demand_Based_Workforce_Optimizer_Project_Report.pdf)
 
 ## Limitations and next steps
 
