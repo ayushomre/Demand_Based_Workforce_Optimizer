@@ -1,0 +1,4 @@
+shift_id,forecast_orders,baseline_capacity_orders,optimized_capacity_orders,baseline_labour_cost_inr,optimized_labour_cost_inr,cost_savings_inr,cost_savings_pct,baseline_overtime_hours,optimized_overtime_hours,overtime_reduction_pct,optimized_capacity_coverage
+S1,453884,468710.2,472103.0,7415796.0,6890177.0,525619.0,0.0709,182,46,0.7473,1.0098
+S2,520744,532489.3,540235.3,9022293.24,8632863.63,389429.61,0.0432,136,54,0.6029,1.0072
+S3,326725,339724.9,340435.7,6688366.3,6160057.2,528309.1,0.079,138,48,0.6522,1.0116

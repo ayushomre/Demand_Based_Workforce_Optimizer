@@ -1,0 +1,6 @@
+facility_id,facility_name,city,region,demand_scale,max_fte_per_shift,max_contract_per_shift,fte_productivity,contract_productivity,fte_hourly_cost,contract_hourly_cost,overtime_hourly_cost
+FC_BLR,Bengaluru South FC,Bengaluru,South,1.14,39,20,13.2,11.5,166,192,250
+FC_DEL,Delhi NCR FC,Delhi NCR,North,1.24,43,22,12.8,11.2,170,198,258
+FC_KOL,Kolkata East FC,Kolkata,East,0.86,33,17,12.3,10.8,156,181,236
+FC_MUM,Mumbai West FC,Mumbai,West,1.1,39,20,12.7,11.0,173,201,263
+FC_HYD,Hyderabad Central FC,Hyderabad,South,0.96,36,18,13.0,11.3,160,186,243

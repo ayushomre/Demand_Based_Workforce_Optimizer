@@ -1,0 +1,6 @@
+facility_id,forecast_orders,baseline_capacity_orders,optimized_capacity_orders,baseline_labour_cost_inr,optimized_labour_cost_inr,cost_savings_inr,cost_savings_pct,baseline_overtime_hours,optimized_overtime_hours,overtime_reduction_pct,optimized_capacity_coverage
+FC_BLR,279868,287181.1,290886.4,4812480.08,4542038.0,270442.08,0.0562,78,31,0.6026,1.0091
+FC_DEL,304654,313529.0,315911.6,5555718.66,5220120.48,335598.18,0.0604,111,32,0.7117,1.0067
+FC_HYD,234265,241754.1,244071.5,3971596.48,3702122.3,269474.18,0.0679,83,19,0.7711,1.0115
+FC_KOL,211671,219548.4,220819.7,3709613.4,3458885.4,250728.0,0.0676,90,33,0.6333,1.0128
+FC_MUM,270895,278911.8,281084.8,5077046.92,4759931.65,317115.27,0.0625,94,33,0.6489,1.0074

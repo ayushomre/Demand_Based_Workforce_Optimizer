@@ -1,0 +1,17 @@
+{
+  "data_status": "Synthetic and reproducible",
+  "random_seed": 26082026,
+  "historical_rows": 1380,
+  "planning_rows": 465,
+  "historical_period": "2026-05-01 to 2026-07-31",
+  "planning_period": "2026-08-01 to 2026-08-31",
+  "baseline_labour_cost_inr": 23126455.54,
+  "optimized_labour_cost_inr": 21683097.83,
+  "simulated_cost_savings_inr": 1443357.71,
+  "simulated_cost_savings_pct": 0.0624,
+  "baseline_overtime_hours": 456,
+  "optimized_overtime_hours": 148,
+  "overtime_reduction_pct": 0.6754,
+  "baseline_under_capacity_shifts": 250,
+  "optimized_under_capacity_shifts": 0
+}

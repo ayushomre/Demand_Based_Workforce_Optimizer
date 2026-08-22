@@ -1,0 +1,4 @@
+shift_id,shift_name,start_time,end_time,shift_hours,productive_hours,demand_multiplier,productivity_multiplier,cost_multiplier
+S1,Morning,06:00,14:00,8.0,7.2,1.0,1.04,1.0
+S2,Evening,14:00,22:00,8.0,7.2,1.15,1.0,1.03
+S3,Night,22:00,06:00,8.0,7.2,0.72,0.92,1.1
